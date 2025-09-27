@@ -31,4 +31,4 @@
 ---
 
 ### 🌐 Social Links
-[LinkedIn](https://www.linkedin.com/in/keziamustafa/) | [Portfolio/Website](#)
+[LinkedIn](https://www.linkedin.com/in/keziamustafa/)
